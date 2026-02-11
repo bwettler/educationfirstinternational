@@ -1,0 +1,46 @@
+<section class="tutors-section">
+  <h1>Your Tutors</h1>
+
+  <div class="tutor-card">
+    <img src="assets/images/john-hamilton.jpg" alt="John Hamilton">
+    <div class="tutor-info">
+      <h2>John Hamilton</h2>
+      <p class="subtitle">Published Author • M.A. Sociology</p>
+      <p>
+        John Hamilton brings a rare combination of academic depth and real‑world insight.
+        With a master’s degree in Sociology and a career that includes published works on
+        culture, education, and social systems, John helps students understand not only
+        what to learn but why it matters. His teaching style blends clarity, structure,
+        and intellectual curiosity, giving students the confidence to master complex ideas
+        and apply them in meaningful ways.
+      </p>
+      <ul>
+        <li>Critical reading and writing</li>
+        <li>Social sciences</li>
+        <li>Research and analysis</li>
+        <li>Academic coaching and study skills</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="tutor-card">
+    <img src="assets/images/william-wettler.jpg" alt="William Wettler">
+    <div class="tutor-info">
+      <h2>William Wettler</h2>
+      <p class="subtitle">M.A. Education</p>
+      <p>
+        William Wettler has spent his career helping students unlock their potential
+        through personalized, high‑impact instruction. With a master’s degree in Education
+        and years of experience designing curriculum, coaching learners, and building
+        academic programs, William focuses on helping students develop mastery,
+        independence, and long‑term academic confidence.
+      </p>
+      <ul>
+        <li>Curriculum design</li>
+        <li>Literacy and writing instruction</li>
+        <li>Study strategy development</li>
+        <li>One‑on‑one academic coaching</li>
+      </ul>
+    </div>
+  </div>
+</section>
