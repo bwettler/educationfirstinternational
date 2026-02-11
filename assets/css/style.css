@@ -58,4 +58,76 @@
     padding: 20px;
   }
 }
+.tutors-section {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  font-family: system-ui, sans-serif;
+}
+
+.tutors-section h1 {
+  text-align: center;
+  margin-bottom: 40px;
+  font-size: 2.4rem;
+  font-weight: 600;
+}
+
+.tutor-card {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-bottom: 60px;
+  align-items: flex-start;
+}
+
+.tutor-card img {
+  width: 220px;
+  height: auto;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.tutor-info {
+  flex: 1;
+  min-width: 260px;
+}
+
+.tutor-info h2 {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+
+.subtitle {
+  margin: 6px 0 16px;
+  font-size: 1.1rem;
+  color: #555;
+}
+
+.tutor-info p {
+  line-height: 1.6;
+  margin-bottom: 16px;
+}
+
+.tutor-info ul {
+  padding-left: 20px;
+  line-height: 1.6;
+}
+
+@media (max-width: 600px) {
+  .tutor-card {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .tutor-card img {
+    margin: 0 auto;
+  }
+
+  .tutor-info ul {
+    text-align: left;
+    margin: 0 auto;
+    max-width: 260px;
+  }
+}
 
